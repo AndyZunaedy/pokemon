@@ -127,10 +127,10 @@ const pokemonData = computed(() => randomPokemonStore.pokemonData);
 const isLoading = computed(() => randomPokemonStore.loading);
 
 const jumbotronImages = ref([
-    '/images/background1.jpg',
-    '/images/background2.jpg',
-    '/images/background3.jpg',
-    '/images/background4.jpg'
+    import.meta.env.BASE_URL + 'images/background1.jpg',
+    import.meta.env.BASE_URL + 'images/background2.jpg',
+    import.meta.env.BASE_URL + 'images/background3.jpg',
+    import.meta.env.BASE_URL + 'images/background4.jpg'
 ]);
 
 const currentImageIndex = ref(0);
