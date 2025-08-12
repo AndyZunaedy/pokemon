@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# pokemon
-=======
 # 🐾 Pokemon Fetching App
 
 A Vue.js application for exploring Pokemon data with attractive UI and smooth animations.
@@ -31,8 +28,8 @@ A Vue.js application for exploring Pokemon data with attractive UI and smooth an
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/AndyZunaedy/pokemon-fetching-app.git
-   cd pokemon-fetching-app
+   git clone https://github.com/AndyZunaedy/pokemon.git
+   cd pokemon
    ```
 
 2. **Install dependencies**
@@ -96,4 +93,3 @@ npm install
 ---
 
 ⭐ Star this repo if it helps!
->>>>>>> ccf9c84 (push first to main)
