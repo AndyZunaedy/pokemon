@@ -1,5 +1,5 @@
 # URL WEB POKEMON
-https://andyzunaedy.github.io/pokemon/allpokemon
+https://andyzunaedy.github.io/pokemon/
 
 # 🐾 Pokemon Fetching App
 
