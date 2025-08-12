@@ -22,7 +22,7 @@ const Routes = [
 ]
 
 const Router = createRouter({
-    history: createWebHistory('/pokemon/'), // base path harus sesuai dengan base di vite.config.js
+    history: createWebHistory('/'), // base path harus sesuai dengan base di vite.config.js
     routes: Routes
 })
 
